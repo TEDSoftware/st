@@ -1,0 +1,11 @@
+<form action="../form-result.php" target="_blank">
+
+  <p>
+
+    Ingresa tu nombre completo: <input type="text" name="nombrecompleto">
+
+    <input type="submit" value="Enviar la información">
+
+  </p>
+
+</form>
